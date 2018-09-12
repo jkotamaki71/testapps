@@ -1,0 +1,8 @@
+{
+  "name": "ekatestiapp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "d4853fe4"
+}
